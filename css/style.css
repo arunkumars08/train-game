@@ -1,0 +1,41 @@
+.train-container {
+    width: 80%;
+    height: 80%;
+    border: 1px solid #000;
+    position: fixed;
+    left: 10%;
+    top: 10%;
+}
+
+.house {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ededed;
+    position: absolute;
+}
+
+.default {
+    background: #000;
+}
+
+.orange {
+    background: ORANGE;
+    right: 0;
+    top: 0;
+}
+
+.train {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    left: 0;
+    margin: 35px 0 35px 0;
+}
+
+.red-train {
+    background: RED;
+}
+
+.orange-train {
+    background: ORANGE;
+}
